@@ -1,0 +1,2 @@
+this is checking the merge cmd in github 
+change made by bhavishya malhotra 

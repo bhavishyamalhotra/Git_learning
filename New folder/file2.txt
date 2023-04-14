@@ -7,3 +7,4 @@ oracle sql
 java jdk 
 react 
 axios
+change made in merge branch i need to change to merge this change to learning branch 
